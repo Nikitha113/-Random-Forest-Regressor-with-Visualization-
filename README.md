@@ -50,25 +50,9 @@ This avoids external file uploads and keeps the project beginner-friendly.
 - Data visualization using Matplotlib
 - Interpreting decision tree structure
 
-## 📎 Author
 **Akula Nikitha**  
 Aspiring Data Scientist
-🔗 LinkedIn Post (Copy–Paste)
-Option 1: Professional
 
-🌳 Random Forest Regressor – From Data to Visualization
-
-I built a complete machine learning workflow using Random Forest Regressor in Python.
-
-✔ Created a custom dataset
-✔ Trained a Random Forest model
-✔ Evaluated predictions using MSE
-✔ Visualized Actual vs Predicted values
-✔ Visualized a Decision Tree from the forest
-This project helped me understand ensemble learning and how multiple decision trees work together to improve prediction accuracy.
-Excited to keep learning and building more ML projects! 🚀
-
-🔖 Hashtags
 #MachineLearning #RandomForest #Python #DataScience
 #ScikitLearn #MLProjects #LearningJourney
 #ArtificialIntelligence #Visualization #StudentDeveloper
